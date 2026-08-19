@@ -1,5 +1,32 @@
 [
   {
+    "exercise_name": "clone-repo",
+    "started_at": 1786695426.959488,
+    "completed_at": 1786695430.221996,
+    "comments": [
+      "Great work creating a clone of a fork from Github!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "fetch-and-pull",
+    "started_at": 1786696985.905757,
+    "completed_at": 1786696987.754833,
+    "comments": [
+      "Great work fetching and pulling different upstreams!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "fork-repo",
+    "started_at": 1786694765.51224,
+    "completed_at": 1786694768.817142,
+    "comments": [
+      "Great work creating a fork with Github!"
+    ],
+    "status": "Completed"
+  },
+  {
     "exercise_name": "grocery-shopping",
     "started_at": 1786423750.724335,
     "completed_at": 1786423752.537955,
@@ -9,10 +36,91 @@
     "status": "Completed"
   },
   {
+    "exercise_name": "ignoring-somethings",
+    "started_at": 1786436247.127507,
+    "completed_at": 1786436252.091282,
+    "comments": [
+      "Great work using .gitignore!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "link-me",
+    "started_at": 1786434186.241036,
+    "completed_at": 1786434187.895506,
+    "comments": [
+      "Great work with using git remote to add an upstream remote!"
+    ],
+    "status": "Completed"
+  },
+  {
     "exercise_name": "log-and-order",
     "started_at": 1786426472.274976,
     "completed_at": 1786426474.057582,
     "comments": [],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "push-over",
+    "started_at": 1786435080.616377,
+    "completed_at": 1786435082.937184,
+    "comments": [
+      "Great work pushing changes to the remote!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "remote-control",
+    "started_at": 1786433630.070584,
+    "completed_at": 1786433650.42316,
+    "comments": [
+      "Great work setting up a public remote repository!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "sensors-checkout",
+    "started_at": 1786959403.780793,
+    "completed_at": 1786959405.468574,
+    "comments": [
+      "Great work traversing the revision history!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "sensors-diff",
+    "started_at": 1786958840.683774,
+    "completed_at": 1786958842.719668,
+    "comments": [
+      "Great work comparing commits in git history!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "sensors-reset",
+    "started_at": 1786961296.098086,
+    "completed_at": 1786961298.011507,
+    "comments": [
+      "You have reset the repository to the correct state!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "sensors-revert",
+    "started_at": 1786962698.005823,
+    "completed_at": 1786962701.70786,
+    "comments": [
+      "You have not reverted all the commits yet!"
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "sensors-revert",
+    "started_at": 1786962772.175038,
+    "completed_at": 1786962774.071498,
+    "comments": [
+      "Good work reverting commits!"
+    ],
     "status": "Completed"
   },
   {
@@ -30,6 +138,42 @@
     "completed_at": 1786424455.650546,
     "comments": [
       "Great work! You have successfully fixed the attendance system!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "tags-add",
+    "started_at": 1786957701.925794,
+    "completed_at": 1786957705.307035,
+    "comments": [
+      "\"first-pilot\" should point to the first commit."
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "tags-add",
+    "started_at": 1786957776.40313,
+    "completed_at": 1786957778.212531,
+    "comments": [
+      "Great work using git tag to annotate various commits in the repository!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "tags-push",
+    "started_at": 1786958102.419265,
+    "completed_at": 1786958105.235309,
+    "comments": [
+      "Wonderful! You have successfully synced the local tags with the remote tags!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "tags-update",
+    "started_at": 1786957911.616106,
+    "completed_at": 1786957913.377931,
+    "comments": [
+      "Great work! You have successfully updated the tags to point to the correct commits."
     ],
     "status": "Completed"
   },
@@ -52,65 +196,23 @@
     "status": "Completed"
   },
   {
-    "exercise_name": "remote-control",
-    "started_at": 1786433630.070584,
-    "completed_at": 1786433650.42316,
+    "exercise_name": "view-commits",
+    "started_at": 1786956686.049318,
+    "completed_at": 1786956689.450834,
     "comments": [
-      "Great work setting up a public remote repository!"
+      "Answer for In February, who was replaced in the Wednesday duty roster? is empty.",
+      "Answer for In February, who joined the Tuesday duty roster? is empty.",
+      "Answer for In April, what were the new names added to the duty rosters? Remove/add extra rows where appropriate. does not contain all of the right answers.",
+      "Answer for In January, who were in the Tuesday duty roster? Remove/add extra rows where appropriate. does not contain all of the right answers."
     ],
-    "status": "Completed"
+    "status": "Incomplete"
   },
   {
-    "exercise_name": "link-me",
-    "started_at": 1786434186.241036,
-    "completed_at": 1786434187.895506,
+    "exercise_name": "view-commits",
+    "started_at": 1786956736.767148,
+    "completed_at": 1786956738.424931,
     "comments": [
-      "Great work with using git remote to add an upstream remote!"
-    ],
-    "status": "Completed"
-  },
-  {
-    "exercise_name": "push-over",
-    "started_at": 1786435080.616377,
-    "completed_at": 1786435082.937184,
-    "comments": [
-      "Great work pushing changes to the remote!"
-    ],
-    "status": "Completed"
-  },
-  {
-    "exercise_name": "ignoring-somethings",
-    "started_at": 1786436247.127507,
-    "completed_at": 1786436252.091282,
-    "comments": [
-      "Great work using .gitignore!"
-    ],
-    "status": "Completed"
-  },
-  {
-    "exercise_name": "fork-repo",
-    "started_at": 1786694765.51224,
-    "completed_at": 1786694768.817142,
-    "comments": [
-      "Great work creating a fork with Github!"
-    ],
-    "status": "Completed"
-  },
-  {
-    "exercise_name": "clone-repo",
-    "started_at": 1786695426.959488,
-    "completed_at": 1786695430.221996,
-    "comments": [
-      "Great work creating a clone of a fork from Github!"
-    ],
-    "status": "Completed"
-  },
-  {
-    "exercise_name": "fetch-and-pull",
-    "started_at": 1786696985.905757,
-    "completed_at": 1786696987.754833,
-    "comments": [
-      "Great work fetching and pulling different upstreams!"
+      "Great work in viewing and understanding the diff of a specific commit!"
     ],
     "status": "Completed"
   }
